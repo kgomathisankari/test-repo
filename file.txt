@@ -1,4 +1,6 @@
-Aditya is a good boy
+Aravind and Aditya are a good boy
 Gomathi and Ulag are fathers of Aditya
 I have added in the fourth line. 3rd line is empty here
 This is for merge test..
+
+changes are applied
