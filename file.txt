@@ -1,5 +1,1 @@
-Aditya is a good boy
-Gomathi and Ulag are parents of Aditya
-I have added in the fourth line. 3rd line is empty here
-This is for merge test..
-Adding some changes from second folder
+New file added
